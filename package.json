@@ -1,0 +1,7 @@
+{
+  "name": "visualize-sort",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sven Liebig <liebigsv@gmail.com>",
+  "license": "MIT"
+}
